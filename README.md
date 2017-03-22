@@ -1,5 +1,5 @@
 # centos-recipes
-Receitas do CentOS
+**Receitas do *CentOS* **
 
 - Buscar pacotes instalados: rpm -qa | grep -i 'php*'
 - Buscar pacotes disponívels: yum search php-

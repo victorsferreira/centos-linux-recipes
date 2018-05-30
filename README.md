@@ -18,3 +18,4 @@
 - Utilização de memória: cat /proc/meminfo
 - Utilização de memória: top
 - Utilização de memória: vmstat -s
+- Monitorar utilização: watch -n 5 free -m

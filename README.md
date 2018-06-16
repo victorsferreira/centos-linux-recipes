@@ -19,3 +19,8 @@
 - Utilização de memória: top
 - Utilização de memória: vmstat -s
 - Monitorar utilização: watch -n 5 free -m
+
+- Soltar aplicação do console: screen e teclas CTRL + a + d para voltar
+- ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+- eval \`ssh-agent -s\`
+- ssh-add <chave>

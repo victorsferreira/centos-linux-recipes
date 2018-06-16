@@ -24,3 +24,4 @@
 - ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 - eval \`ssh-agent -s\`
 - ssh-add <chave>
+- listar consoles: screen -ls

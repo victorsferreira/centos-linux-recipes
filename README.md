@@ -1,5 +1,5 @@
-# centos-recipes
-**Receitas do *CentOS***
+# Recipes de Linux
+**Receitas do *Linux* **
 
 - Buscar pacotes instalados: rpm -qa | grep -i 'php*'
 - Buscar pacotes disponívels: yum search php-
@@ -25,3 +25,15 @@
 - eval \`ssh-agent -s\`
 - ssh-add <chave>
 - listar consoles: screen -ls
+
+- Memory consumption
+
+free -m
+
+- Partition info
+
+df -h </partition name>
+
+- Shows PID of process
+
+fuser 3000/tcp

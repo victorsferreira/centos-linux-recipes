@@ -37,3 +37,6 @@ df -h </partition name>
 - Shows PID of process
 
 fuser 3000/tcp
+
+- Swap space info
+sudo swapon --show

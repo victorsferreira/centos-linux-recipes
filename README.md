@@ -28,15 +28,16 @@
 
 - Memory consumption
 
-free -m
+```free -m```
 
 - Partition info
 
-df -h </partition name>
+```df -h </partition name>```
 
 - Shows PID of process
 
-fuser 3000/tcp
+```fuser 3000/tcp```
 
 - Swap space info
-sudo swapon --show
+
+```sudo swapon --show```

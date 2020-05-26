@@ -44,4 +44,4 @@
 
 SCP
 
-scp <file> your_username@remotehost.edu:/some/remote/directory
+scp -i /path/to/key.pem <file> your_username@remotehost.edu:/some/remote/directory

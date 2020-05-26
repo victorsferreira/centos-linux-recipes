@@ -41,3 +41,7 @@
 - Swap space info
 
 ```sudo swapon --show```
+
+SCP
+
+scp <file> your_username@remotehost.edu:/some/remote/directory
